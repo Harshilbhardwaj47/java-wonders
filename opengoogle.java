@@ -20,7 +20,9 @@ public class first {
 		}	
 	}
 	public static void google() {
+		
 		Scanner in = new Scanner(System.in);
+		System.out.println("what do you want to search");
 		String search = in.nextLine();
 		// declaration and instantiation of objects/variables
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\hp\\Downloads\\chromedriver_win32\\chromedriver.exe");
