@@ -12,3 +12,5 @@ In today’s world, Java has a vast variety of different uses. For example, Java
 If you are interested in using Java for app development, you might want to check out this great introductory course to fast and easy app development.
 
 The latest version of Java is Java 14 or JDK 14 released on March, 17th 2020 (follow this article to check Java version on your computer). JDK 15 is in progress with early-access builds.
+
+Java is available on Microsoft Windows in 64 and 32 bit versions, allowing users to get the appropriate version for their system. Users can even run both side-by-side for 64 bit operating systems.
