@@ -10,6 +10,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class first {
 
 	public static void main(String[] args) {
+		
+	}
+	public static void google() {
 		Scanner in = new Scanner(System.in);
 		String search = in.nextLine();
 		// declaration and instantiation of objects/variables
