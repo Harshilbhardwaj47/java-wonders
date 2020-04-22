@@ -10,7 +10,14 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class first {
 
 	public static void main(String[] args) {
-		
+	Scanner input = new Scanner(System.in);
+		System.out.println("hello master do you want to use google");
+		String option = input.nextLine();
+		if (option == "yes" || option == "YES" || option == "Yes") {
+			google();
+		} else {
+			System.out.println("thank you for visiting me");
+		}	
 	}
 	public static void google() {
 		Scanner in = new Scanner(System.in);
