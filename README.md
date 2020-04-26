@@ -14,6 +14,9 @@ If you are interested in using Java for app development, you might want to check
 # About java version?
 The latest version of Java is Java 14 or JDK 14 released on March, 17th 2020 (follow this article to check Java version on your computer). JDK 15 is in progress with early-access builds.
 
+# Apache Maven
+Maven is a build automation tool used primarily for Java projects. Maven can also be used to build and manage projects written in C#, Ruby, Scala, and other languages. The Maven project is hosted by the Apache Software Foundation, where it was formerly part of the Jakarta Project.
+
 # Run Eclipse with a JDK
 Maven requires Eclipse using a JDK, i.e. Java Development Kit, instead of a Java Runtime Environment (JRE). The main difference is that a JDK also contains a Java Compiler and other tools to develop Java Code, while the JRE is only able to run compiled Java applications.
 
