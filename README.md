@@ -41,3 +41,6 @@ Java is available on Microsoft Windows in 64 and 32 bit versions, allowing users
 
 # what is servlet?
 A servlet is a small Java program that runs within a Web server. Servlets receive and respond to requests from Web clients, usually across HTTP, the HyperText Transfer Protocol.
+
+# Build and release management
+Release management is the process of managing, planning, scheduling and controlling a software build through different stages and environments; including testing and deploying software releases.
