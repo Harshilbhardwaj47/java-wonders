@@ -11,7 +11,7 @@ public class insert {
 		Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/write your schema name here", "root", "write your password here");
 		Statement stmt = con.createStatement();
 		Scanner in = new Scanner(System.in);
-		stmt.executeUpdate("INSERT INTO `employe` VALUES (500068802,'Aman gupta',1000000)");
+		stmt.executeUpdate("INSERT INTO `employe` VALUES (500068802,'harshil bhardwaj',1000000)");
 		con.close();
 	}
 }
