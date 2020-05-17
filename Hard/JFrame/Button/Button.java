@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class Button {
 	public static void main(String[] args) {
-		JFrame f = new JFrame();// creating instance of JFrame
+		JFrame f = new JFrame("Button Example");// creating instance of JFrame
 
 		JButton b = new JButton("Button");// creating instance of JButton
 		b.setBounds(200, 200, 100, 100);// x axis, y axis, width, height
