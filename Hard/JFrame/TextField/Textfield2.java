@@ -32,6 +32,7 @@ class abc implements ActionListener {
 		f.setLayout(null);
 		f.setVisible(true);
 		actionPerformed(e);
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 
 	public void actionPerformed(ActionEvent e) {
