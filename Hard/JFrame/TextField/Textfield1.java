@@ -15,6 +15,7 @@ public class Textfiled1 {
 		f.setSize(400, 400);
 		f.setLayout(null);
 		f.setVisible(true);
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 }
 //here if you see first we created an instance for the frame that we will be using and then created and instance for two text fields and gave them there position and size and then added them in the frame
