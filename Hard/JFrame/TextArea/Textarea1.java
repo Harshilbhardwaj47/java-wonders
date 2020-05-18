@@ -12,6 +12,7 @@ public class Textarea1 {
 		f.setSize(300, 300);// setting the frame size 
 		f.setLayout(null);// set layout instance to null
 		f.setVisible(true);// setting the instance to visible
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 
 	public static void main(String[] args) {
