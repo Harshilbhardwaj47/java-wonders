@@ -28,6 +28,7 @@ public class Textarea2 implements ActionListener {
 		f.setLayout(null);// seting layout instcance to null
 		f.setVisible(true);// setting the instance to visible
 		actionPerformed(e);// calling the method action performed
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 
 	public void actionPerformed(ActionEvent e) {
