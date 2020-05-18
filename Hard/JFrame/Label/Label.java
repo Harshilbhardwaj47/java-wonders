@@ -15,6 +15,7 @@ public class Label {
 		f.setSize(300, 300);// setting the size of the frame
 		f.setLayout(null);// null instance declaration
 		f.setVisible(true);// setting instance to visible
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 }
 
