@@ -4,18 +4,18 @@ import javax.swing.*;
 
 public class Textarea1 {
 
-	Textarea1() {
-		JFrame f = new JFrame("note pad");
-		JTextArea area = new JTextArea();
-		area.setBounds(10, 30, 200, 200);
-		f.add(area);
-		f.setSize(300, 300);
-		f.setLayout(null);
-		f.setVisible(true);
+	Textarea1() {// creating counstrucctor
+		JFrame f = new JFrame("note pad");// adding frame instance 
+		JTextArea area = new JTextArea();// creating the instance for text area
+		area.setBounds(10, 30, 200, 200);// position and dimension of text area
+		f.add(area);// adding text area in the frame
+		f.setSize(300, 300);// setting the frame size 
+		f.setLayout(null);// set layout instance to null
+		f.setVisible(true);// setting the instance to visible
 	}
 
 	public static void main(String[] args) {
-		Textarea1 ob = new Textarea1();
+		Textarea1 ob = new Textarea1();// called the class instructor through object initiation
 	}
 }
 
