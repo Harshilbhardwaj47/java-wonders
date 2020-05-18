@@ -13,6 +13,7 @@ public class Label2 extends Frame implements ActionListener {
 	private ActionEvent e;// created an event e
 
 	Label2() {// counstructor for class
+		JFrame f = new JFrame("IP Finder"):
 		tf = new JTextField();// new text field instance created
 		tf.setBounds(50, 50, 150, 20);// postition nad dimension creatred
 		l = new JLabel();// same another label
@@ -20,13 +21,14 @@ public class Label2 extends Frame implements ActionListener {
 		b = new JButton("Find IP");// button instance created
 		b.setBounds(50, 150, 95, 30);// with its axis and dimension
 		b.addActionListener(this);// actionlistner class that extended used with the help of this key word
-		add(b);// added button in the frame
-		add(tf);// added the textfield in the frame
-		add(l);// added a label in the frame
-		setSize(400, 400);// defining the size of frame
-		setLayout(null);// setting layout instance
-		setVisible(true);// setting instance to visible
+		f.add(b);// added button in the frame
+		f.add(tf);// added the textfield in the frame
+		f.add(l);// added a label in the frame
+		f.setSize(400, 400);// defining the size of frame
+		f.setLayout(null);// setting layout instance
+		f.setVisible(true);// setting instance to visible
 		actionPerformed(e);// called the method action performed
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 
 	public void actionPerformed(ActionEvent e) {
