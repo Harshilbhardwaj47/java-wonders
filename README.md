@@ -49,3 +49,5 @@ A servlet is a small Java program that runs within a Web server. Servlets receiv
 Release management is the process of managing, planning, scheduling and controlling a software build through different stages and environments; including testing and deploying software releases.
 # what is JDBC ?
 Java Database Connectivity (JDBC) is an application programming interface (API) for the programming language Java, which defines how a client may access a database. It is a Java-based data access technology used for Java database connectivity. It is part of the Java Standard Edition platform, from Oracle Corporation.
+# Android Studio
+Android Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. It is available for download on Windows, macOS and Linux based operating systems.
