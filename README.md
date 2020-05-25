@@ -54,3 +54,6 @@ Android Studio is the official integrated development environment for Google's A
 # How to learn android studio and from where 
 https://developer.android.com/samples
 please follow the given link as we all know android studio is an open source application so you all can find enogh resourse on the provided link
+
+# Algorithms ?
+An algorithm is a step by step procedure to solve logical and mathematical problems. A recipe is a good example of an algorithm because says what must be done, step by step. ... For the purpose of computing, algorithms are written in pseudocode, flow charts, or programming languages. .
