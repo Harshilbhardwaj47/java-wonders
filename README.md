@@ -56,4 +56,8 @@ https://developer.android.com/samples
 please follow the given link as we all know android studio is an open source application so you all can find enogh resourse on the provided link
 
 # Algorithms ?
-An algorithm is a step by step procedure to solve logical and mathematical problems. A recipe is a good example of an algorithm because says what must be done, step by step. ... For the purpose of computing, algorithms are written in pseudocode, flow charts, or programming languages. .
+An algorithm is a step by step procedure to solve logical and mathematical problems. A recipe is a good example of an algorithm because says what must be done, step by step. ... For the purpose of computing, algorithms are written in pseudocode, flow charts, or programming languages. 
+
+1) Factorial :- Factorials are very simple things. They're just products, indicated by an exclamation mark. For instance, "four factorial" is written as "4!" and means 1×2×3×4 = 24. In general, n! ("enn factorial") means the product of all the whole numbers from 1 to n; that is, n!
+
+2)Eight-Queens :- Algorithm Implementation/Miscellaneous/N-Queens. The eight queens puzzle is the problem of putting eight chess queens on an 8×8 chessboard such that none of them is able to capture any other using the standard chess queen's moves. ... Thus, a solution requires that no two queens share the same row, column, or diagonal.
