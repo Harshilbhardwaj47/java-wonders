@@ -63,3 +63,5 @@ An algorithm is a step by step procedure to solve logical and mathematical probl
 2)Eight-Queens :- Algorithm Implementation/Miscellaneous/N-Queens. The eight queens puzzle is the problem of putting eight chess queens on an 8×8 chessboard such that none of them is able to capture any other using the standard chess queen's moves. ... Thus, a solution requires that no two queens share the same row, column, or diagonal.
 
 3)FizzBuzz :- Fizz Buzz is a very simple programming task, asked in software developer job interviews. A typical round of Fizz Buzz can be: Write a program that prints the numbers from 1 to 100 and for multiples of '3' print "Fizz" instead of the number and for the multiples of '5' print "Buzz".
+
+4)Fibonacci :-  The Fibonacci numbers, commonly denoted Fn, form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1. That is, and. for n > 1.
