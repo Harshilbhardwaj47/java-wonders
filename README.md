@@ -65,3 +65,5 @@ An algorithm is a step by step procedure to solve logical and mathematical probl
 3)FizzBuzz :- Fizz Buzz is a very simple programming task, asked in software developer job interviews. A typical round of Fizz Buzz can be: Write a program that prints the numbers from 1 to 100 and for multiples of '3' print "Fizz" instead of the number and for the multiples of '5' print "Buzz".
 
 4)Fibonacci :-  The Fibonacci numbers, commonly denoted Fn, form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1. That is, and. for n > 1.
+
+5)Knight-Tour :- A knight's tour is a sequence of moves of a knight on a chessboard such that the knight visits every square exactly once. ... The knight's tour problem is the mathematical problem of finding a knight's tour. 
