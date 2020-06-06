@@ -70,3 +70,6 @@ An algorithm is a step by step procedure to solve logical and mathematical probl
 
 # JFrame
 JFrame class is a type of container which inherits the java. awt. Frame class. JFrame works like the main window where components like labels, buttons, textfields are added to create a GUI. Unlike Frame, JFrame has the option to hide or close the window with the help of setDefaultCloseOperation(int) method.
+
+# Swing
+Swing is a GUI widget toolkit for Java. It is part of Oracle's Java Foundation Classes – an API for providing a graphical user interface for Java programs. Swing was developed to provide a more sophisticated set of GUI components than the earlier Abstract Window Toolkit.
