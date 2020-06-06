@@ -67,3 +67,6 @@ An algorithm is a step by step procedure to solve logical and mathematical probl
 4)Fibonacci :-  The Fibonacci numbers, commonly denoted Fn, form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1. That is, and. for n > 1.
 
 5)Knight-Tour :- A knight's tour is a sequence of moves of a knight on a chessboard such that the knight visits every square exactly once. ... The knight's tour problem is the mathematical problem of finding a knight's tour. 
+
+# JFrame
+JFrame class is a type of container which inherits the java. awt. Frame class. JFrame works like the main window where components like labels, buttons, textfields are added to create a GUI. Unlike Frame, JFrame has the option to hide or close the window with the help of setDefaultCloseOperation(int) method.
