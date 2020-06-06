@@ -71,5 +71,11 @@ An algorithm is a step by step procedure to solve logical and mathematical probl
 # JFrame
 JFrame class is a type of container which inherits the java. awt. Frame class. JFrame works like the main window where components like labels, buttons, textfields are added to create a GUI. Unlike Frame, JFrame has the option to hide or close the window with the help of setDefaultCloseOperation(int) method.
 
+# How to create a JFrame
+1) In the Projects window, right-click the ContactEditor node and choose New > JFrame Form. Alternatively, you can find a JFrame form by choosing New > Other > Swing GUI Forms > JFrame Form.
+2) Enter ContactEditorUI as the Class Name.
+3) Enter my. contacteditor as the package.
+4) Click Finish.
+
 # Swing
 Swing is a GUI widget toolkit for Java. It is part of Oracle's Java Foundation Classes – an API for providing a graphical user interface for Java programs. Swing was developed to provide a more sophisticated set of GUI components than the earlier Abstract Window Toolkit.
